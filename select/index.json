@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Thumbs",
+  "base_artist": "Sabrina Carpenter",
+  "createdAt": "2025-12-25T13:57:05.595233Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Just Like Tom Thumb's Blues",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/01_Just_Like_Tom_Thumb's_Blues_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Five Stars And Two Thumbs Up",
+      "artist": "Danielson",
+      "has_synced": false,
+      "path": "select/02_Five_Stars_And_Two_Thumbs_Up_Danielson.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Thumbs...",
+      "artist": "Devendra Banhart",
+      "has_synced": true,
+      "path": "select/03_The_Thumbs..._Devendra_Banhart.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Thumbs Up for Europe",
+      "artist": "Bonfire",
+      "has_synced": false,
+      "path": "select/04_Thumbs_Up_for_Europe_Bonfire.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Just Like Tom Thumb's Blues",
+      "artist": "Bryan Ferry",
+      "has_synced": true,
+      "path": "select/05_Just_Like_Tom_Thumb's_Blues_Bryan_Ferry.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fingers Become Thumbs!",
+      "artist": "Future of the Left",
+      "has_synced": false,
+      "path": "select/06_Fingers_Become_Thumbs!_Future_of_the_Left.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Thumbs Up",
+      "artist": "Kill the Noise feat. Feed Me",
+      "has_synced": true,
+      "path": "select/07_Thumbs_Up_Kill_the_Noise_feat._Feed_Me.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Thumbs Up (For Rock N' Roll) - Kill The Noise Remix",
+      "artist": "Kill the Noise feat. Feed Me",
+      "has_synced": true,
+      "path": "select/08_Thumbs_Up_(For_Rock_N'_Roll)_-_Kill_The_Noise_Remix_Kill_the_Noise_feat._Feed_Me.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Thumbs Up (For Rock n' Roll) (Kill The Noise Remix)",
+      "artist": "Kill The Noise & Feed Me",
+      "has_synced": true,
+      "path": "select/09_Thumbs_Up_(For_Rock_n'_Roll)_(Kill_The_Noise_Remix)_Kill_The_Noise_&_Feed_Me.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fingers & Thumbs (Cold Summer's Day) - Live",
+      "artist": "Erasure",
+      "has_synced": false,
+      "path": "select/10_Fingers_&_Thumbs_(Cold_Summer's_Day)_-_Live_Erasure.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fingers And Thumbs (Cold Summer's Day)",
+      "artist": "Erasure",
+      "has_synced": true,
+      "path": "select/11_Fingers_And_Thumbs_(Cold_Summer's_Day)_Erasure.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fingers & Thumbs (Cold Summer's Day)",
+      "artist": "Erasure",
+      "has_synced": true,
+      "path": "select/12_Fingers_&_Thumbs_(Cold_Summer's_Day)_Erasure.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Thumbs",
+      "artist": "Lucy Dacus",
+      "has_synced": false,
+      "path": "select/13_Thumbs_Lucy_Dacus.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Thumbs",
+      "artist": "Lucy Dacus",
+      "has_synced": true,
+      "path": "select/14_Thumbs_Lucy_Dacus.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Just Like Tom Thumb's Blues",
+      "artist": "Linda Ronstadt",
+      "has_synced": true,
+      "path": "select/15_Just_Like_Tom_Thumb's_Blues_Linda_Ronstadt.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Just Like Tom Thumb's Blues",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/16_Just_Like_Tom_Thumb's_Blues_Nina_Simone.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Just Like Tom Thumb's Blues",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/17_Just_Like_Tom_Thumb's_Blues_Bob_Dylan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Thumbs",
+      "artist": "Sabrina Carpenter",
+      "has_synced": false,
+      "path": "select/pl_01_Thumbs_Sabrina_Carpenter.txt"
+    }
+  ]
+}
